@@ -1,0 +1,15 @@
+{
+  "id": "ritetag",
+  "name": "Ritetag",
+  "version": "1.0.0",
+  "description": "Ritetag",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-ritetag-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://ritetag.com"
+  }
+}
